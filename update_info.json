@@ -1,0 +1,10 @@
+{
+  "Core" : "1.3.0.0",
+  "Modules" : 
+  [
+    {
+      "Name":"LeagueEUWModule.dll",
+      "Hash":"cc52212aed8d9106adec7b782bef1eed"
+    }
+  ]
+}
