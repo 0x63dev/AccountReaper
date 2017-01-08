@@ -1,106 +1,110 @@
 {
-  "Core" : "1.3.0.0",
+  "Core" : "1.4.0.0",
   "Modules" : 
   [
     {
       "Name":"LeagueEUWModule.dll",
-      "Hash":"4585d665f807a3ec9983546ffecbc401"
+      "Hash":"0a75fcf9c7ec3b766fe0e7df6d48da41"
     },
     {
       "Name":"BitcointalkModule.dll",
-      "Hash":"d09d86f74df38325d19f9c7508932536"
+      "Hash":"5800a41796bcc48990c5439da3d8bd93"
     },
     {
       "Name":"BTGuardModule.dll",
-      "Hash":"9c4ebf0d078e60324180ab78481aad26"
+      "Hash":"eb661efeaa2fd10fff3b073fc4cd0e5a"
     },
     {
       "Name":"ChatrubateModule.dll",
-      "Hash":"b613434c549211f7c701bb962213ae58"
+      "Hash":"2f7b32580cc88c32c70e54c65dc4b6a6"
     },
     {
       "Name":"CrunchyrollModule.dll",
-      "Hash":"775cadfba17e2b7968a44aa7d9b6f061"
+      "Hash":"56e40d3a95b08d5d5f10d9fb7ca53215"
     },
     {
       "Name":"DeathByCaptchaModule.dll",
-      "Hash":"531982611f9282e2592e2d65c72913bf"
+      "Hash":"5c1a7dbd15005698ca0885f76bab1804"
     },
     {
       "Name":"HitLeapModule.dll",
-      "Hash":"87d8010e60a1e1cd84f6bf8357b37ac3"
+      "Hash":"a66d44985595518db7379090f5da8e9d"
     },
     {
       "Name":"HuluModule.dll",
-      "Hash":"2380459890e837533b9c294089d5b6a1"
+      "Hash":"c689a5130e5635a3d5255b19c34b6873"
     },
     {
       "Name":"InstagramModule.dll",
-      "Hash":"5e6e807f74eba56bfa7f9eb1d074129b"
+      "Hash":"6f84b6e3676a2d2cc67a5b26aa30fef0"
     },
     {
       "Name":"LeagueBRModule.dll",
-      "Hash":"d2e23aa1c0294ccb6b9e758f5a876867"
+      "Hash":"973dc51e416cc0f013c1c3ffbae293b8"
     },
     {
-      "Name":"LeagueEUNE.dll",
-      "Hash":"2cbb425c27896aeabcd978754b9a6eb2"
+      "Name":"LeagueEUNEModule.dll",
+      "Hash":"f4285efa09f5b8d876e9e7e82590ff56"
     },
       {
       "Name":"LeagueJPModule.dll",
-      "Hash":"e4f9378a93b2f9d950dd70fa7d180e16"
+      "Hash":"27f7a3e884851ec81ecaee46f8329999"
     },
       {
       "Name":"LeagueLANModule.dll",
-      "Hash":"68170586ba44cc76ee1746f595403064"
+      "Hash":"99da270191fec670f31f1a3aca83c32e"
     },
     {
       "Name":"LeagueNAModule.dll",
-      "Hash":"203662818f3e5dc515f232c63a801fb2"
+      "Hash":"60b7f355b80a3a27888d7d2ab7cc153b"
     },
     {
       "Name":"LeagueOCEModule.dll",
-      "Hash":"569955ea9ae1612b4c60244908badf3e"
+      "Hash":"7fccb316aee40a287a036fabd41ab397"
+    },
+    {
+      "Name":"LeaguePBEModule.dll",
+      "Hash":"67b38b7b056ff50b1c5fb9ffffc95364"
     },
     {
       "Name":"MinecraftModule.dll",
-      "Hash":"f9cbadc0ccc99d01ee4fce642eb05749"
+      "Hash":"909ae5ca555f63ca27afeac2e8661cc1"
     },
     {
       "Name":"NetflixModule.dll",
-      "Hash":"e25e773dd80571f646c72902e6a568a2"
+      "Hash":"cbeecd9ba9383caba8fa8848d1c60469"
     },
     {
       "Name":"PandoraModule.dll",
-      "Hash":"43c8804f0d3d5b49744ee185e97b997b"
+      "Hash":"4fe25f048948cca21b9ffbbce5e60e45"
     },
     {
       "Name":"PornHubModule.dll",
-      "Hash":"f00ebf5d934a0b5e54034371056d7af7"
+      "Hash":"c3556db314f8c56a1a97a714ce267637"
     },
     {
       "Name":"RapidgatorModule.dll",
-      "Hash":"0bb70ed0b4d626d0d67ea7c7f3044e6c"
+      "Hash":"8415cece2daf9bef052e9ec411fadb4a"
     },
     {
       "Name":"RedditModule.dll",
-      "Hash":"16787ac4011a456b3c05f18dd63734af"
+      "Hash":"bf5039400e5338f2f3c563b99e925d62"
     },
     {
       "Name":"SpotifyModule.dll",
-      "Hash":"e48e2de88cc433babcf7606cbbf66056"
+      "Hash":"0a1647aefde6475bfa1df3ed4092fa7c"
     },
     {
       "Name":"TwitterModule.dll",
-      "Hash":"b116db266b1e6d7d3d08c77e5cf219ed"
+      "Hash":"94cdaa738843f07ac5b99b5dc4838aee"
     },
     {
       "Name":"UploadedToModule.dll",
-      "Hash":"b896aa395a57ae1f03885d3c19edbb1d"
+      "Hash":"228f5a12bbb74873e0143e6dda02bbac"
     },
     {
       "Name":"WWEModule.dll",
-      "Hash":"0892caf5160088ba68c8cf3f5e91dcb5"
+      "Hash":"d43df462b1b77edfbea99ea3e580a02c"
     }
   ]
 }
