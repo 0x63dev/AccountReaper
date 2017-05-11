@@ -105,6 +105,10 @@
     {
       "Name":"WWEModule.dll",
       "Hash":"f9ae1224e7b110e3a2fcb8a2af597883"
+    },
+    {
+      "Name":"FitbitModule.dll",
+      "Hash":"305c2f3af7045ed0b9220fbc31c060d5"
     }
   ]
 }
