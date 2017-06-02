@@ -109,6 +109,10 @@
     {
       "Name":"FitbitModule.dll",
       "Hash":"305c2f3af7045ed0b9220fbc31c060d5"
+    },
+    {
+      "Name":"VyprVPNModule.dll",
+      "Hash":"3b4b440b198d6cd31b55958e28a27def"
     }
   ]
 }
