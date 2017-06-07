@@ -113,6 +113,10 @@
     {
       "Name":"VyprVPNModule.dll",
       "Hash":"3b4b440b198d6cd31b55958e28a27def"
+    },
+    {
+      "Name":"AhrefsModule.dll",
+      "Hash":"19eb8a6ff944e654a74ce7e7731de827"
     }
   ]
 }
