@@ -92,7 +92,7 @@
     },
     {
       "Name":"SpotifyModule.dll",
-      "Hash":"22643a6110844fde979b9b3c60368ad4"
+      "Hash":"8cf28f77ab32f3e571c21f328321ac62"
     },
     {
       "Name":"TwitterModule.dll",
@@ -116,7 +116,7 @@
     },
     {
       "Name":"AhrefsModule.dll",
-      "Hash":"19eb8a6ff944e654a74ce7e7731de827"
+      "Hash":"22c4d55e570c8bd53d877ec66c6b3929"
     }
   ]
 }
